@@ -14,5 +14,10 @@
     "nuxt": "^3.8.0",
     "vue": "^3.3.7",
     "vue-router": "^4.2.5"
+  },
+  "dependencies": {
+    "@element-plus/nuxt": "^1.0.6",
+    "@zxing/library": "^0.20.0",
+    "element-plus": "^2.4.1"
   }
 }
